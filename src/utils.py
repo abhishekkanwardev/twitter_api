@@ -1,7 +1,7 @@
 import requests
 from authlib.integrations.requests_client import OAuth1Auth
 
-from .config import *
+from config import *
 
 auth = OAuth1Auth(
     client_id=CLIENT_ID,
