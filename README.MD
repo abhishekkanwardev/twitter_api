@@ -5,7 +5,7 @@
 Flask application which will pull user profile information:-  
 
 ### Endpoint  
-/twitter/profile/<username>  
+/twitter/profile/\<username\>
 
 ### Response  
 ```
