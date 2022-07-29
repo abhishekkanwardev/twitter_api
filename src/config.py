@@ -7,5 +7,4 @@ CLIENT_SECRET = os.environ["CLIENT_SECRET"]
 TOKEN = os.environ["TOKEN"]
 TOKEN_SECRET = os.environ["TOKEN_SECRET"]
 TWITTER_BASE_URL = os.environ["TWITTER_BASE_URL"]
-DEBUG = int(os.environ.get("DEBUG",0))
 
